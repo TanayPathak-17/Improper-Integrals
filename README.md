@@ -9,7 +9,7 @@ They contain the evaluation of the Mellin-Barnes representation and also the eva
 
 **Example files**
 
-Example file *Ising.nb* contains the evaluation of various Ising integrals considered in the paper. 
+*Ising.nb* contains the evaluation of various Ising integrals considered in the paper. 
 
-Example file *Box.nb* contains the evaluation of Box integrals considered in the paper. 
+*Box.nb* contains the evaluation of Box integrals considered in the paper. 
 
