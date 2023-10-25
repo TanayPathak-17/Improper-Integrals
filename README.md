@@ -11,5 +11,5 @@ They contain the evaluation of the Mellin-Barnes representation and also the eva
 
 *Ising.nb* contains the evaluation of various Ising integrals considered in the paper. 
 
-*Box.nb* contains the evaluation of Box integrals considered in the paper. 
+*Box.nb* contains the evaluation of various Box integrals considered in the paper. 
 
